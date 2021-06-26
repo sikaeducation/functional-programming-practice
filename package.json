@@ -1,0 +1,14 @@
+{
+  "name": "functional-programming-practice",
+  "version": "1.0.0",
+  "description": "Functional Programming practice",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
